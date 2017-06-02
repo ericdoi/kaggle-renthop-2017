@@ -2,9 +2,9 @@
 A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiries, 2017 [(Kaggle competition page)](kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
 
 ## Description
-This competition was notable for its rich domain-specific features and manageable data size--
-aside from a 80GB image dataset. However, the consensus was that image processing yielded little lift over the data in the standard
-numeric/text data.
+This competition was notable for its rich domain-specific features and manageable data size,
+aside from a 80GB image dataset (however, the consensus was that image processing yielded little lift over the data in the standard
+numeric/text data).
 
 The structure of this repository is modeled after Jeong-Yoon Lee's Kaggler Template (https://github.com/jeongyoonlee/kaggler-template).
 It is organized to make model runs reproducible and facilitate ensembling of out-of-fold model predictions.
@@ -17,7 +17,7 @@ For modeling, XGB was the main model, ensembled with Logistic Regression.
 ## Result
 Private Leaderboard:  0.51150
 
-Rank 226 / 2488 (91th percentile)
+Rank 226 / 2488 (91st percentile)
 
 This was based on the following ensemble:
 * XGB with f6a features
