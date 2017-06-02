@@ -3,6 +3,7 @@ A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiri
 
 Competition page:  kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
+## Description
 This competition was notable for its rich domain-specific features and manageable data size--
 aside from a 80GB image dataset. However, the consensus was that image processing yielded little lift over the data in the standard
 numeric/text data.
@@ -14,3 +15,12 @@ Makefiles are used to run the modeling pipeline (data prep, model training, pred
 For overview and motivation, see http://kaggler.com/kagglers-toolbox-setup/.
 
 For modeling, XGB was the main model, ensembled with Logistic Regression.
+
+## Acknowledgements
+Thanks to:
+[Jeongyoonlee](https://www.kaggle.com/jeongyoonlee):  For the Kaggler toolbox and template
+[SRK](https://www.kaggle.com/sudalairajkumar):  For the starter XGB script which got everyone off on a strong start
+[gdy5](https://www.kaggle.com/guoday):  For showing how much of an impact a single CV feature could have
+[Kazanova](https://www.kaggle.com/kazanova):  For sharing StackNet and the "magic" leak feature
+And many others who were generous enough to share their knowledge and establish public baselines for everyone's benefit.
+
