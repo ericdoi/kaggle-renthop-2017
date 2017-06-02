@@ -22,7 +22,7 @@ Rank 226 / 2488 (91st percentile)
 This was based on the following ensemble:
 * XGB with f6a features
 * XGB with f6 + img1 features
-* LR with n6 + pq4 features 
+* LR with n6 + pq (generate_price_quantiles.py) features 
 * LR with img1 features
 * LR with n6a + img1 features
 
