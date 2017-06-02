@@ -17,7 +17,7 @@ For modeling, XGB was the main model, ensembled with Logistic Regression.
 ## Result
 Private Leaderboard:  0.51150
 
-Rank 226 / 2488 (91%)
+Rank 226 / 2488 (91th percentile)
 
 This was based on the following ensemble:
 * XGB with f6a features
