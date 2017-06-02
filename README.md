@@ -20,11 +20,11 @@ Private Leaderboard:  0.51150
 Rank 226 / 2488 (91st percentile)
 
 This was based on the following ensemble:
-* XGB with f6a features
-* XGB with f6 + img1 features
-* LR with n6 + pq (generate_price_quantiles.py) features 
+* XGB with f6a (feature.f6a.makefile) features
+* XGB with f6 (feature.f6.makefile) + img1 (feature.img1.makefile, after running generate_image_feats.py) features
+* LR with n6 (feature.n6.makefile) + pq (generate_price_quantiles.py) features
 * LR with img1 features
-* LR with n6a + img1 features
+* LR with n6a (feature.n6a.makefile) + img1 features
 
 ## Acknowledgements
 Thanks to:
