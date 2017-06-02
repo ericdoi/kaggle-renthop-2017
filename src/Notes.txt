@@ -1,0 +1,2 @@
+python generate_image_feats.py --n-workers 3 --image-base-path ../data/images_sample_tiny --feat-out-base-path ../build/photo-features/tmp/ --agg-out-base-path ../build/photo-features/aggs/
+

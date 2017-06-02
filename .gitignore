@@ -1,0 +1,11 @@
+data/
+build/
+logs/
+notebooks/.ipynb_checkpoints/
+.Rproj.user
+.idea
+kaggle-two-sigma-renthop-2017.iml
+*.Rproj
+.RData
+.Rhistory
+*.log
