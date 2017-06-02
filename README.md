@@ -14,6 +14,18 @@ For overview and motivation, see http://kaggler.com/kagglers-toolbox-setup/.
 
 For modeling, XGB was the main model, ensembled with Logistic Regression.
 
+## Result
+Private Leaderboard:  0.51150
+
+Rank 226 / 2488 (91%)
+
+This was based on the following ensemble:
+* XGB with f6a features
+* XGB with f6 + img1 features
+* LR with n6 + pq4 features 
+* LR with img1 features
+* LR with n6a + img1 features
+
 ## Acknowledgements
 Thanks to:
 - [Jeongyoonlee](https://www.kaggle.com/jeongyoonlee):  For the Kaggler toolbox and template
