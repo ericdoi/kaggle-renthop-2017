@@ -1,5 +1,5 @@
 # kaggle-renthop-2017
-A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiries, 2017 [(Kaggle competition page)](kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
+A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiries, 2017 [(Kaggle competition page)](https://kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
 
 ## Description
 This competition was notable for its rich domain-specific features and manageable data size,
