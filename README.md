@@ -29,6 +29,7 @@ This was based on the following ensemble:
 ## Acknowledgements
 Thanks to:
 - [Jeongyoonlee](https://www.kaggle.com/jeongyoonlee):  For the Kaggler toolbox and template
+- [plantsgo](https://www.kaggle.com/plantsgo):  For generous sharing as the competition winner
 - [SRK](https://www.kaggle.com/sudalairajkumar):  For the starter XGB script which got everyone off on a strong start
 - [gdy5](https://www.kaggle.com/guoday):  For showing how much of an impact a single CV feature could have
 - [Kazanova](https://www.kaggle.com/kazanova):  For sharing StackNet and the "magic" leak feature
