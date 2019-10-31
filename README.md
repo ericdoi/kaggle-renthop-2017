@@ -1,4 +1,6 @@
 # kaggle-renthop-2017
+https://www.kaggle.com/ericdoi
+
 A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiries, 2017 [(Kaggle competition page)](https://kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
 
 Some slides about my experience working on this competition: [(pdf)](https://github.com/ericdoi/kaggle-renthop-2017/blob/master/2017-07-01_Kaggle_RentHop.pdf)
