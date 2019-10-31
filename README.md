@@ -1,6 +1,8 @@
 # kaggle-renthop-2017
 A public example Kaggle submission for Two Sigma Connect: Rental Listing Inquiries, 2017 [(Kaggle competition page)](https://kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
 
+Some slides about my experience working on this competition: [(pdf)](https://github.com/ericdoi/kaggle-renthop-2017/blob/master/2017-07-01_Kaggle_RentHop.pdf)
+
 ## Description
 This competition was notable for its rich domain-specific features and manageable data size,
 aside from a 80GB image dataset (however, the consensus was that image processing yielded little lift over the data in the standard
